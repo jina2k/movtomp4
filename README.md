@@ -9,6 +9,6 @@ For non-technical people:
 2. Copy the bash script file (convert.sh) into the directory with MOV files.
 3. Open Windows Powershell, navigate to the directory with MOV files by typing and entering the command `cd <directory>` like so:
 
-`cd C:\Users\jina2k\Downloads\exampledirectory`,
+`cd C:\Users\jina2k\Downloads\exampledirectory`
 
 then type and enter the command `bash ./convert.sh`
