@@ -3,6 +3,8 @@ Bulk converting MOV files to MP4 using ffmpeg
 
 Made for personal use, for ease of viewing on Windows 10's proprietary app "Movies & TV". (Instead of using VLC media player)
 
+Update: Since MOV files are now playable under Windows 10, this repo is now outdated.
+
 For non-technical people:
 
 1. Download ffmpeg https://www.wikihow.com/Install-FFmpeg-on-Windows
